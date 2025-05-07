@@ -1,5 +1,5 @@
 import { importShared } from './__federation_fn_import-S9P--UP2.js';
-import DashboardApp, { j as jsxRuntimeExports } from './__federation_expose_DashboardApp-BZ4Lc1Eg.js';
+import DashboardApp, { j as jsxRuntimeExports } from './__federation_expose_DashboardApp-BmhN_Z33.js';
 import { r as requireReact } from './index-DUwCgkeV.js';
 import { r as requireReactDom } from './index-Dl6QBmMQ.js';
 
