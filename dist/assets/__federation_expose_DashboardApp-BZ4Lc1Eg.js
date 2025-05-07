@@ -59,7 +59,7 @@ var jsxRuntimeExports = requireJsxRuntime();
 function DashboardApp() {
   return /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "p-6", children: [
     /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "text-2xl font-bold mb-4", children: "Dashboard Microfrontend" }),
-    /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-shadow-pink-800", children: "Welcome to the Dashboard!" })
+    /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-shadow-pink-800", children: "Welcome TEAM!" })
   ] });
 }
 
